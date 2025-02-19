@@ -27,3 +27,6 @@ This project showcases a landing page for a fictional food delivery service call
 * Pricing section
 * Call to action section
 * Footer
+## Deployed Website
+
+The Omnifood website is also hosted at: [omnifood-onvenu.netlify.app](omnifood-onvenu.netlify.app)  You can visit this link to view the live website.
